@@ -1,5 +1,5 @@
 # identity-access-management-using-Active-Directory
-<h1> identity-access-management-using-Active-Directory</h1>
+<h1></h1>
 <h3>this document presents the complete technical documentation for an on-premises Identity and Access Management (IAM) implementation carried out on Windows Server 2022 using Active Directory Domain Services (AD DS)</h3>
 <p>The project simulates a production-grade enterprise IAM environment for Nexora.Tech encompassing forest domain creation, a structured Organisational Unit (OU) hierarchy, role-based group membership, a standardised user principal name (UPN) naming convention, and a comprehensive Group Policy Object (GPO) framework.</p>
 
